@@ -1,1 +1,1 @@
-# hello-worrd
+print("hello worrd!");
